@@ -17,7 +17,7 @@ _24 Mar 2022_: Update our arxiv-version paper.
 
 _26 Mar 2022_: Release code for reimplementing the experiments in the paper.
 
-_30 Mar 2022_: Create a new repository for this Pytorch implementation. 
+_30 Mar 2022_: Create this new repository for the Pytorch implementation. 
 
 _To be continued..._
 
