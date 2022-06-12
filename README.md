@@ -12,6 +12,8 @@ To appear in CVPR 2022.
 This code is reimplemented based on the [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP).
 We thank for their open sourcing.
 
+We also have a PaddlePaddle implementation [here](https://github.com/zipengxuc/PPE).
+
 ## Updates
 _24 Mar 2022_: Update our arxiv-version paper.
 
