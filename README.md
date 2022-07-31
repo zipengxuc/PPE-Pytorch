@@ -51,6 +51,7 @@ Download the weights from [here](https://drive.google.com/file/d/1KW7bjndL3QG3sx
 All procedures are conducted under the *mapper* directory, so please run:
 ```shell script
 cd mapper
+mkdir preprocess
 ```
 #### Predict
 - ***Aggregate*** the images that are most relevant to the text command:
